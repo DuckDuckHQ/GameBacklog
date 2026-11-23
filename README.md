@@ -213,7 +213,7 @@ git init
 git add README.md .gitignore backlog_core.py game_backlog_qt.py Запуск.bat icon.png icon.ico
 git commit -m "GameBacklog Qt Deck: HUD UI, Steam/PC, stats, dock, autostart"
 git branch -M main
-git remote add origin https://github.com/<твій-логін>/<назва-репо>.git
+git remote add origin https://github.com/DuckDuckHQ/GameBacklog.git
 git push -u origin main
 ```
 
