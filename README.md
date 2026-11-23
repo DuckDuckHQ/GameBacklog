@@ -4,6 +4,8 @@
 High-DPI, плавні hover-анімації й сучасний вигляд за референсами Epic / Playnite / Raycast.
 Ігри додаються **тільки** з Steam або з встановлених на ПК — ручного створення немає.
 
+**Готова збірка для Windows:** [GameBacklog.exe (Release v4.0)](https://github.com/DuckDuckHQ/GameBacklog/releases/download/v4.0/GameBacklog.exe)
+
 ## Запуск / Run
 
 Подвійний клік по `Запуск.bat` або в консолі:
